@@ -41,7 +41,7 @@ public class Account {
         accountState.deposit(withdrawAmount, this);
     }
 
-    public Double getBalance(Double balance){
+    public Double getBalance(){
         return balance;
     }
     public void setBalance(Double balance){
