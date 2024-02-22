@@ -38,7 +38,7 @@ public class Account {
     }
 
     public void withdraw(Double withdrawAmount){
-        accountState.deposit(withdrawAmount, this);
+        accountState.withdraw(withdrawAmount, this);
     }
 
     public Double getBalance(){

@@ -10,7 +10,7 @@ public static void main (String[] args){
         myAccount.withdraw(100.0);    	                                
         myAccount.close();
         myAccount.activate();	
-        myAccount.activate();
+        myAccount.suspend();
         myAccount.withdraw(500.0);
         myAccount.deposit(1000.0);
 }

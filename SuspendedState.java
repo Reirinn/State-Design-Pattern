@@ -8,7 +8,7 @@ public class SuspendedState implements AccountState{
        
     };
     public void closeState(Account account){
-        System.out.println("Account already suspended!");
+        System.out.println("Account will close!");
         account.setState(new ClosedState());
     };
     
