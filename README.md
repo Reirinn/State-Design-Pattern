@@ -46,3 +46,6 @@ Note:  No if-else, switch will be used
 
 
 # Class Diagram
+
+![Blank diagram (4)](https://github.com/Reirinn/State-Design-Pattern/assets/142465054/642ea629-3461-4015-8d53-368a86e2d963)
+
